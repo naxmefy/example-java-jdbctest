@@ -13,7 +13,7 @@ public class JDBC {
 	private static final Logger logger = LogManager.getLogger(JDBC.class);
 	
 	public static Map<String, Boolean> areReachable(String ...urls) {
-		Map<String, Boolean> results = new HashMap<>();
+		Map<String, Boolean> results = new HashMap<String, Boolean>();
 		for(String url : urls) {
 			results.put(url, isReachable(url));
 		}
