@@ -2,6 +2,8 @@
 
 test jdbc url is reachable
 
+[![Build Status](https://travis-ci.org/naxmefy/me.nax.jdbctest.svg?branch=master)](https://travis-ci.org/naxmefy/me.nax.jdbctest)
+
 ## installation
 
 no upload to maven centry yet...
