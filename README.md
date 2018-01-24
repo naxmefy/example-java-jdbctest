@@ -6,7 +6,7 @@ test jdbc url is reachable
 
 ## installation
 
-no upload to maven centry yet...
+read https://jitpack.io/#jitpack/maven-simple ...
 
 ## usage
 
