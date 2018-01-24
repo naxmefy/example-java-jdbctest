@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# mvn
+target
+
+# eclipse
+.settings
+.classpath
+.project
